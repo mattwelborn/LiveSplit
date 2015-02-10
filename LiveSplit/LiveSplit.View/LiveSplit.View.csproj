@@ -50,6 +50,10 @@
     <AssemblyOriginatorKeyFile>LiveSplit.pfx</AssemblyOriginatorKeyFile>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Interop.VHMediaCOMLib">
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\SplitmediaLabs\XSplit Gamecaster\Interop.VHMediaCOMLib.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
     <Reference Include="Microsoft.WindowsAPICodePack">
       <HintPath>..\Libs\Windows API Code Pack\Microsoft.WindowsAPICodePack.dll</HintPath>
     </Reference>
