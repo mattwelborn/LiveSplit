@@ -76,3 +76,6 @@
 [submodule "LiveSplit/Libs/xlio"]
 	path = LiveSplit/Libs/xlio
 	url = https://github.com/LiveSplit/xlio.git
+[submodule ".\\LiveSplit\\Components\\LiveSplit.CustomCounter"]
+	path = .\\LiveSplit\\Components\\LiveSplit.CustomCounter
+	url = git://github.com/mattwelborn/LiveSplit.CustomCounter.git
