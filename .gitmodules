@@ -78,4 +78,4 @@
 	url = https://github.com/LiveSplit/xlio.git
 [submodule "LiveSplit/Components/LiveSplit.CustomCounter"]
 	path = LiveSplit/Components/LiveSplit.CustomCounter
-	url = git://github.com/mattwelborn/LiveSplit.CustomCounter.git
+	url = https://github.com/mattwelborn/LiveSplit.CustomCounter.git
